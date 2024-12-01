@@ -22,5 +22,4 @@ document.getElementById('btn1').addEventListener('click', LastNameEvent)
 let Name = "harry";
 let password = "potter";
 
-}
 document.getElementById('form').addEventListener
